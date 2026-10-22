@@ -2,7 +2,7 @@
 
 A full-featured JavaFX + SQLite enterprise desktop application for employee database management, department analytics, and personnel administration.
 
-## ✨ Features & Enhancements
+##  Features & Enhancements
 
 - **Modern Enterprise Dark UI**: Sleek, polished design with custom glassmorphism effects, status badges, and typography.
 - **Full CRUD Operations**:
@@ -31,7 +31,7 @@ A full-featured JavaFX + SQLite enterprise desktop application for employee data
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option 1: 1-Click Launchers (Easiest)
 Double-click `run.bat` or run:
@@ -46,7 +46,7 @@ mvn javafx:run
 
 ---
 
-## 👥 Demo Accounts
+##  Demo Accounts
 
 | Role | Username | Password | Access Scope |
 | :--- | :--- | :--- | :--- |
@@ -55,7 +55,7 @@ mvn javafx:run
 
 ---
 
-## 📁 System Architecture
+##  System Architecture
 
 - `src/main/java/ManagerPortal.java` - Complete JavaFX MVC application, SQLite connection, and charting engine.
 - `src/main/resources/styles.css` - Custom CSS design system.
